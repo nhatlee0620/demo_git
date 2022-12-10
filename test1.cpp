@@ -7,6 +7,7 @@ int main() {
     cout << "Them 1 dong vao test1.cpp local" << endl;
     cout << "Them 1 dong nua vao test1.cpp local" << endl;
     cout << "Hihihihi" << endl;
+    cout << "Hahahaah" << endl;
     system("pause");
     return 0;
 }
