@@ -14,6 +14,8 @@ int main() {
     cout << a << endl;
     int b = 20;
     cout << b << endl;
+    int c = 30;
+    cout << c << endl;
     system("pause");
     return 0;
 }
