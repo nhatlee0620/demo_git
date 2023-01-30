@@ -18,6 +18,8 @@ int main() {
     cout << c << endl;
     int d = 40;
     cout << d << endl;
+    int e = 50;
+    cout << e << endl;
     system("pause");
     return 0;
 }
