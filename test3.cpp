@@ -10,6 +10,10 @@ int main() {
         cout << *it << " ";
     }
     cout << endl;
+    int a = 10;
+    cout << a << endl;
+    int b = 20;
+    cout << b << endl;
     system("pause");
     return 0;
 }
