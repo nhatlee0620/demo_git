@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     vector<int> v;
-    v.push_back(1);
+    v.push_back(200);
     for (int i = 10; i < 20; i = i + 2) {
         v.push_back(i);
     }
