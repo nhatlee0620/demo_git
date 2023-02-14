@@ -8,6 +8,7 @@
             lst.Add("one");
             lst.Add("two");
             lst.Add("three");
+            lst.Add("four");
             foreach(var str in lst)
             {
                 Console.WriteLine(str);
