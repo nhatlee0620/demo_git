@@ -1,0 +1,15 @@
+C:\Users\LEGION\Desktop\TestGit\Folder2\bin\Debug\net6.0\Folder2.exe
+C:\Users\LEGION\Desktop\TestGit\Folder2\bin\Debug\net6.0\Folder2.deps.json
+C:\Users\LEGION\Desktop\TestGit\Folder2\bin\Debug\net6.0\Folder2.runtimeconfig.json
+C:\Users\LEGION\Desktop\TestGit\Folder2\bin\Debug\net6.0\Folder2.dll
+C:\Users\LEGION\Desktop\TestGit\Folder2\bin\Debug\net6.0\Folder2.pdb
+C:\Users\LEGION\Desktop\TestGit\Folder2\obj\Debug\net6.0\Folder2.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\TestGit\Folder2\obj\Debug\net6.0\Folder2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Desktop\TestGit\Folder2\obj\Debug\net6.0\Folder2.AssemblyInfoInputs.cache
+C:\Users\LEGION\Desktop\TestGit\Folder2\obj\Debug\net6.0\Folder2.AssemblyInfo.cs
+C:\Users\LEGION\Desktop\TestGit\Folder2\obj\Debug\net6.0\Folder2.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\TestGit\Folder2\obj\Debug\net6.0\Folder2.dll
+C:\Users\LEGION\Desktop\TestGit\Folder2\obj\Debug\net6.0\refint\Folder2.dll
+C:\Users\LEGION\Desktop\TestGit\Folder2\obj\Debug\net6.0\Folder2.pdb
+C:\Users\LEGION\Desktop\TestGit\Folder2\obj\Debug\net6.0\Folder2.genruntimeconfig.cache
+C:\Users\LEGION\Desktop\TestGit\Folder2\obj\Debug\net6.0\ref\Folder2.dll
