@@ -14,7 +14,7 @@
                 Console.WriteLine(str);
             }
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Nhat dep trai");
+            Console.WriteLine("Nhat dep trai hihihihi");
         }
     }
 }
