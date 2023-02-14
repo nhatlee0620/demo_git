@@ -20,8 +20,10 @@ int main() {
     cout << d << endl;
     int e = 50;
     cout << e << endl;
-    int g = 100;
-    cout << g << endl;
+    int k = 60;
+    cout << k << endl;
+    int l = k - e;
+    cout << l << endl;
     system("pause");
     return 0;
 }
