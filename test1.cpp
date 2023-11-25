@@ -8,6 +8,7 @@ int main() {
     cout << "Them 1 dong nua vao test1.cpp local" << endl;
     cout << "Hihihihi" << endl;
     cout << "Hahahaah" << endl;
+    cout << "Hohohoho" << endl;
     system("pause");
     return 0;
 }
